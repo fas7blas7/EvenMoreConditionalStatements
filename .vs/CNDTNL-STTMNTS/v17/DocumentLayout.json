@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BFCB19-68A8-4DBC-843B-8A78231E16E1}|10-SummerOutfit\\10-SummerOutfit.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\8-cond-statmnts\\cndtnl-sttmnts\\10-summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BFCB19-68A8-4DBC-843B-8A78231E16E1}|10-SummerOutfit\\10-SummerOutfit.csproj|solutionrelative:10-summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C799AE4-DB6C-472F-BF9E-71E1E5350DA5}|9-SumOfSeconds\\9-SumOfSeconds.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\8-cond-statmnts\\cndtnl-sttmnts\\9-sumofseconds\\sumofseconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C799AE4-DB6C-472F-BF9E-71E1E5350DA5}|9-SumOfSeconds\\9-SumOfSeconds.csproj|solutionrelative:9-sumofseconds\\sumofseconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAD4005-9C4E-437C-9A0E-C369A6548826}|8-FruitOrVegetable\\8-FruitOrVegetable.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\8-cond-statmnts\\cndtnl-sttmnts\\8-fruitorvegetable\\fruitorvegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAD4005-9C4E-437C-9A0E-C369A6548826}|8-FruitOrVegetable\\8-FruitOrVegetable.csproj|solutionrelative:8-fruitorvegetable\\fruitorvegetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8E9FEA-97C8-4000-919E-7555BECDF131}|6-ProductOfThreeNumbers\\6-ProductOfThreeNumbers.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\8-cond-statmnts\\cndtnl-sttmnts\\6-productofthreenumbers\\productofthreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8E9FEA-97C8-4000-919E-7555BECDF131}|6-ProductOfThreeNumbers\\6-ProductOfThreeNumbers.csproj|solutionrelative:6-productofthreenumbers\\productofthreenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5947561-AB94-4681-9922-CF22A2445FAE}|7-WorkingHours\\7-WorkingHours.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\8-cond-statmnts\\cndtnl-sttmnts\\7-workinghours\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5947561-AB94-4681-9922-CF22A2445FAE}|7-WorkingHours\\7-WorkingHours.csproj|solutionrelative:7-workinghours\\workinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418B460F-D6C6-4A1E-B006-D0268D42EF12}|5-VacationExpenses\\5-VacationExpenses.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\8-cond-statmnts\\cndtnl-sttmnts\\5-vacationexpenses\\vacationexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418B460F-D6C6-4A1E-B006-D0268D42EF12}|5-VacationExpenses\\5-VacationExpenses.csproj|solutionrelative:5-vacationexpenses\\vacationexpenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\10-SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "10-SummerOutfit\\Program.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\10-SummerOutfit\\Program.cs",
+              "RelativeToolTip": "10-SummerOutfit\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:21:47.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumOfSeconds.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\9-SumOfSeconds\\SumOfSeconds.cs",
+              "RelativeDocumentMoniker": "9-SumOfSeconds\\SumOfSeconds.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\9-SumOfSeconds\\SumOfSeconds.cs",
+              "RelativeToolTip": "9-SumOfSeconds\\SumOfSeconds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:07:29.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductOfThreeNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\6-ProductOfThreeNumbers\\ProductOfThreeNumbers.cs",
+              "RelativeDocumentMoniker": "6-ProductOfThreeNumbers\\ProductOfThreeNumbers.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\6-ProductOfThreeNumbers\\ProductOfThreeNumbers.cs",
+              "RelativeToolTip": "6-ProductOfThreeNumbers\\ProductOfThreeNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:09:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FruitOrVegetable.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\8-FruitOrVegetable\\FruitOrVegetable.cs",
+              "RelativeDocumentMoniker": "8-FruitOrVegetable\\FruitOrVegetable.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\8-FruitOrVegetable\\FruitOrVegetable.cs",
+              "RelativeToolTip": "8-FruitOrVegetable\\FruitOrVegetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:07:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkingHours.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\7-WorkingHours\\WorkingHours.cs",
+              "RelativeDocumentMoniker": "7-WorkingHours\\WorkingHours.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\7-WorkingHours\\WorkingHours.cs",
+              "RelativeToolTip": "7-WorkingHours\\WorkingHours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:52:53.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VacationExpenses.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\5-VacationExpenses\\VacationExpenses.cs",
+              "RelativeDocumentMoniker": "5-VacationExpenses\\VacationExpenses.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\8-COND-STATMNTS\\CNDTNL-STTMNTS\\5-VacationExpenses\\VacationExpenses.cs",
+              "RelativeToolTip": "5-VacationExpenses\\VacationExpenses.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:24:57.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

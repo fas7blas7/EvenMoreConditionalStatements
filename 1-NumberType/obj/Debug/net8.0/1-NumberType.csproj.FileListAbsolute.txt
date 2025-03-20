@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\bin\Debug\net8.0\1-NumberType.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\bin\Debug\net8.0\1-NumberType.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\bin\Debug\net8.0\1-NumberType.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\bin\Debug\net8.0\1-NumberType.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\bin\Debug\net8.0\1-NumberType.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\refint\1-NumberType.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\1-NumberType.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\1-NumberType\obj\Debug\net8.0\ref\1-NumberType.dll
