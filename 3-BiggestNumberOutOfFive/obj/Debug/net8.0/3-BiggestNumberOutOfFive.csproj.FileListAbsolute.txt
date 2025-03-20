@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\bin\Debug\net8.0\3-BiggestNumberOutOfFive.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\bin\Debug\net8.0\3-BiggestNumberOutOfFive.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\bin\Debug\net8.0\3-BiggestNumberOutOfFive.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\bin\Debug\net8.0\3-BiggestNumberOutOfFive.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\bin\Debug\net8.0\3-BiggestNumberOutOfFive.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\refint\3-BiggestNumberOutOfFive.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\3-BiggestNumberOutOfFive.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\6-SIMPLE-CONDITIONAL-STATEMENTS\CNDTNL-STTMNTS\3-BiggestNumberOutOfFive\obj\Debug\net8.0\ref\3-BiggestNumberOutOfFive.dll
