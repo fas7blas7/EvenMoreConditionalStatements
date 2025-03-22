@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\bin\Debug\net8.0\4-NumberOperations.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\bin\Debug\net8.0\4-NumberOperations.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\bin\Debug\net8.0\4-NumberOperations.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\bin\Debug\net8.0\4-NumberOperations.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\bin\Debug\net8.0\4-NumberOperations.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\refint\4-NumberOperations.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\4-NumberOperations.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\4-NumberOperations\obj\Debug\net8.0\ref\4-NumberOperations.dll
