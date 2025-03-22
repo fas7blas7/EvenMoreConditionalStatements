@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\bin\Debug\net8.0\5-VacationExpenses.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\bin\Debug\net8.0\5-VacationExpenses.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\bin\Debug\net8.0\5-VacationExpenses.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\bin\Debug\net8.0\5-VacationExpenses.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\bin\Debug\net8.0\5-VacationExpenses.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\refint\5-VacationExpenses.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\5-VacationExpenses.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\5-VacationExpenses\obj\Debug\net8.0\ref\5-VacationExpenses.dll
