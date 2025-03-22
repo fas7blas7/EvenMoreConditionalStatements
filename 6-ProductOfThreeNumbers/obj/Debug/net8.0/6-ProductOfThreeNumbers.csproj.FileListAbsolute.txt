@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\bin\Debug\net8.0\6-ProductOfThreeNumbers.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\bin\Debug\net8.0\6-ProductOfThreeNumbers.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\bin\Debug\net8.0\6-ProductOfThreeNumbers.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\bin\Debug\net8.0\6-ProductOfThreeNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\bin\Debug\net8.0\6-ProductOfThreeNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\refint\6-ProductOfThreeNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\6-ProductOfThreeNumbers.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\6-ProductOfThreeNumbers\obj\Debug\net8.0\ref\6-ProductOfThreeNumbers.dll
