@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\bin\Debug\net8.0\7-WorkingHours.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\bin\Debug\net8.0\7-WorkingHours.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\bin\Debug\net8.0\7-WorkingHours.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\bin\Debug\net8.0\7-WorkingHours.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\bin\Debug\net8.0\7-WorkingHours.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\refint\7-WorkingHours.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\7-WorkingHours.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\7-WorkingHours\obj\Debug\net8.0\ref\7-WorkingHours.dll
