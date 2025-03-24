@@ -4,13 +4,13 @@ Welcome to this collection of simple C# console applications! Each program solve
 
 ## 📌 Tasks
 
-### 1️⃣ Number Type 🔢
+### 1⃣ Number Type 🔢
 **Namespace:** `_1_NumberType`
 
 📌 **Description:**
 This program takes an integer input and determines whether the number is **positive**, **negative**, or **zero**.
 
-📜 **Code Logic:**
+🌜 **Code Logic:**
 - Reads an integer from the console.
 - Checks if it's `0`, positive, or negative.
 - Outputs the corresponding category.
@@ -32,13 +32,13 @@ negative
 
 ---
 
-### 2️⃣ ATM 🏧💰
+### 2⃣ ATM 🏧💰
 **Namespace:** `_2_ATM`
 
 📌 **Description:**
 This program simulates an ATM withdrawal process by checking balance, withdrawal amount, and limit.
 
-📜 **Code Logic:**
+🌜 **Code Logic:**
 - Reads balance, withdrawal amount, and withdrawal limit.
 - Checks if the withdrawal is possible based on conditions.
 - Outputs success or an error message.
@@ -73,13 +73,13 @@ Insufficient availability.
 
 ---
 
-### 3️⃣ Biggest Number Out of Five 🏆🔢
+### 3⃣ Biggest Number Out of Five 🏆🔢
 **Namespace:** `_3_BiggestNumberOutOfFive`
 
 📌 **Description:**
 This program reads five integers and determines the largest one.
 
-📜 **Code Logic:**
+🌜 **Code Logic:**
 - Reads five integers.
 - Iterates through them to find the biggest.
 - Prints the largest number.
@@ -109,13 +109,13 @@ This program reads five integers and determines the largest one.
 
 ---
 
-### 4️⃣ Number Operations ➕➖✖️➗
+### 4⃣ Number Operations ➕➖✖️🥺
 **Namespace:** `_4_NumberOperations`
 
 📌 **Description:**
 This program performs basic arithmetic operations (`+`, `-`, `*`, `/`) on two integers.
 
-📜 **Code Logic:**
+🌜 **Code Logic:**
 - Reads two integers from the console.
 - Reads an arithmetic operator.
 - Performs the corresponding operation and prints the result with two decimal places.
@@ -141,13 +141,13 @@ This program performs basic arithmetic operations (`+`, `-`, `*`, `/`) on two in
 
 ---
 
-### 5️⃣ Vacation Expenses 🏝️💰
+### 5⃣ Vacation Expenses 🏝️💰
 **Namespace:** `_5_VacationExpenses`
 
 📌 **Description:**
 This program calculates the total vacation expenses based on the season, accommodation type, and number of days.
 
-📜 **Code Logic:**
+🌜 **Code Logic:**
 - Reads the season (`Spring`, `Summer`, `Autumn`, `Winter`).
 - Reads the accommodation type (`Hotel` or `Camping`).
 - Determines the price per night and discount percentage.
@@ -174,13 +174,13 @@ Camping
 
 ---
 
-### 6️⃣ Product of Three Numbers ✖️🔢
+### 6⃣ Product of Three Numbers ✖️🔢
 **Namespace:** `_6_ProductOfThreeNumbers`
 
 📌 **Description:**
 This program determines whether the product of three integers is **positive**, **negative**, or **zero**.
 
-📜 **Code Logic:**
+🌜 **Code Logic:**
 - Reads three integers.
 - If any number is `0`, outputs `zero`.
 - Counts the negative numbers.
@@ -212,6 +212,68 @@ negative
 ```
 ```
 zero
+```
+
+---
+
+### 7️⃣ Working Hours ⏰
+**Namespace:** `_7_WorkingHours`
+
+📌 **Description:**
+This program determines if a store is open based on the given hour and day.
+
+📜 **Code Logic:**
+- Reads an integer hour and a string day.
+- Checks if the store is open between 10:00 and 18:00 from Monday to Saturday.
+- Outputs `open` if within hours, otherwise `closed`.
+
+✅ **Example Input & Output:**
+```
+11
+Monday
+```
+```
+open
+```
+```
+19
+Saturday
+```
+```
+closed
+```
+
+---
+
+### 8️⃣ Fruit or Vegetable 🍏🥕
+**Namespace:** `_8_FruitOrVegetable`
+
+📌 **Description:**
+This program determines whether an input string is a fruit or a vegetable.
+
+📜 **Code Logic:**
+- Reads a string from the console.
+- Checks if it belongs to predefined categories of fruits or vegetables.
+- Outputs `fruit`, `vegetable`, or `unknown`.
+
+✅ **Example Input & Output:**
+```
+banana
+```
+```
+fruit
+```
+```
+carrot
+```
+```
+vegetable
+```
+```
+chocolate
+```
+```
+unknown
 ```
 
 ---
