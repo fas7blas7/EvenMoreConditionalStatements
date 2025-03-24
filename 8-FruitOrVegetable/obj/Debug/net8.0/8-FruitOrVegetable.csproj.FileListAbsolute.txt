@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\bin\Debug\net8.0\8-FruitOrVegetable.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\bin\Debug\net8.0\8-FruitOrVegetable.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\bin\Debug\net8.0\8-FruitOrVegetable.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\bin\Debug\net8.0\8-FruitOrVegetable.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\bin\Debug\net8.0\8-FruitOrVegetable.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\refint\8-FruitOrVegetable.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\8-FruitOrVegetable.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\8-COND-STATMNTS\CNDTNL-STTMNTS\8-FruitOrVegetable\obj\Debug\net8.0\ref\8-FruitOrVegetable.dll
