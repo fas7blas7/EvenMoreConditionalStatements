@@ -4,7 +4,7 @@ Welcome to this collection of simple C# console applications! Each program solve
 
 ## 📌 Tasks
 
-### 1⃣ Number Type 🔢
+### 1️⃣ Number Type 🔢
 **Namespace:** `_1_NumberType`
 
 📌 **Description:**
@@ -32,7 +32,7 @@ negative
 
 ---
 
-### 2⃣ ATM 🏧💰
+### 2️⃣ ATM 🏧💰
 **Namespace:** `_2_ATM`
 
 📌 **Description:**
@@ -73,7 +73,7 @@ Insufficient availability.
 
 ---
 
-### 3⃣ Biggest Number Out of Five 🏆🔢
+### 3️⃣ Biggest Number Out of Five 🏆🔢
 **Namespace:** `_3_BiggestNumberOutOfFive`
 
 📌 **Description:**
@@ -109,7 +109,7 @@ This program reads five integers and determines the largest one.
 
 ---
 
-### 4⃣ Number Operations ➕➖✖️🥺
+### 4️⃣ Number Operations ➕➖✖️🥺
 **Namespace:** `_4_NumberOperations`
 
 📌 **Description:**
@@ -141,7 +141,7 @@ This program performs basic arithmetic operations (`+`, `-`, `*`, `/`) on two in
 
 ---
 
-### 5⃣ Vacation Expenses 🏝️💰
+### 5️⃣ Vacation Expenses 🏝️💰
 **Namespace:** `_5_VacationExpenses`
 
 📌 **Description:**
@@ -174,7 +174,7 @@ Camping
 
 ---
 
-### 6⃣ Product of Three Numbers ✖️🔢
+### 6️⃣ Product of Three Numbers ✖️🔢
 **Namespace:** `_6_ProductOfThreeNumbers`
 
 📌 **Description:**
@@ -278,8 +278,56 @@ unknown
 
 ---
 
-## 🛠️ How to Run
-1. Open a C# development environment (e.g., **Visual Studio** or **VS Code** with C# extension).
-2. Copy each task's code into its respective file.
-3. Compile and run the program.
-4. Provide input as prompted and view the output!
+### 9️⃣ Sum of Seconds ⏳
+**Namespace:** `_9_SumOfSeconds`
+
+📌 **Description:**
+This program calculates the total time in minutes and seconds from three separate time inputs.
+
+🌜 **Code Logic:**
+- Reads three integer inputs representing time in seconds.
+- Computes the total time and converts it to minutes and seconds.
+- Displays the formatted time output.
+
+✅ **Example Input & Output:**
+```
+35
+45
+44
+```
+```
+2:04
+```
+
+---
+
+### 🔟 Summer Outfit ☀️👕
+**Namespace:** `_10_SummerOutfit`
+
+📌 **Description:**
+This program suggests an outfit based on the temperature and time of day.
+
+🌜 **Code Logic:**
+- Reads an integer temperature and a string representing time of day (`Morning`, `Afternoon`, `Evening`).
+- Determines the appropriate outfit and shoes based on temperature ranges.
+- Prints the clothing recommendation.
+
+✅ **Example Input & Output:**
+```
+16
+Morning
+```
+```
+It's 16 degrees, get your Sweatshirt and Sneakers.
+```
+
+```
+28
+Afternoon
+```
+```
+It's 28 degrees, get your Swim Suit and Barefoot.
+```
+
+---
+
